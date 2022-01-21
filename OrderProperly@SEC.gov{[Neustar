@@ -1,0 +1,923 @@
+Topic: testtopic/bru/1QoS: 0
+
+aGVsbG8gd29ybGQ=
+2021-12-21 01:32:08
+
+Topic: testtopic/bru/1QoS: 0
+
+aGVsbG8gd29ybGQ=
+2021-12-21 01:32:17
+
+Topic: testtopic/bru/1QoS: 0
+
+aGVsbG8gd29ybGQ=
+2021-12-21 01:32:28
+
+Topic: XMYQoS: 2
+
+{
+  "msg": "hello"
+}28842192.0065925
+2021-12-21 01:33:21
+
+Topic: XMYQoS: 2
+
+{
+  "msg": "hello"
+}28842192.0065925
+2021-12-21 01:33:21
+
+Topic: XMYQoS: 2
+
+{
+  "msg": "hello"
+}28842192.0065925
+2021-12-21 01:33:21
+
+Topic: XMYQoS: 2
+
+{
+  "msg": "hello"
+}28842192.0065925http://aladin.unistra.fr/AladinLite/?target=05%2043%209.411-01%2036%2037.29&fov=3.00&survey=P%2FDSS2%2Fcolor
+2021-12-21 03:00:50
+
+Topic: testtopic/miniprogramQoS: 0
+
+{
+  "msg": "eee"
+  
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/111wQoS: 0
+
+{
+  "msg": "hellod"
+  "name":"jiduauto.com
+"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/mytopicQoS: 0
+
+{
+  "msg": "hello",
+  "name": "你说什恶魔",
+  "age" : "还是有什么要说",
+  "温度" : "现在是多少度 man"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/deptQoS: 0
+
+{
+  "retain":"testRetain",
+  "status":"1",
+  "Qos":"0"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/456QoS: 0
+
+{
+  "msg": "hello44"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/会议室1/3QoS: 0
+
+{
+  "msg": "hello3"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/timeQoS: 0
+
+
+{ "time": 1608365158 }
+2022-01-20 20:18:02
+
+Topic: testtopic/test1/llpQoS: 0
+
+DeviceModel=PQNet101CVT
+ADCBackgroudDC[4]=0,0,0,0
+2022-01-20 20:18:02
+
+Topic: testtopic/8QoS: 0
+
+sinvo test send
+2022-01-20 20:18:02
+
+Topic: testtopic/hgd_bQoS: 0
+
+{
+  "msg": "你好vcsdfdsfds"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/alertQoS: 0
+
+Hi
+2022-01-20 20:18:02
+
+Topic: testtopic/oneQoS: 0
+
+{
+  "msg": "你是谁"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/twoQoS: 0
+
+{
+  "msg": "tow"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/test1QoS: 0
+
+Hi
+2022-01-20 20:18:02
+
+Topic: testtopic/bru/1QoS: 0
+
+aGVsbG8gd29ybGQ=
+2021-12-21 01:32:17
+
+Topic: testtopic/bru/1QoS: 0
+
+aGVsbG8gd29ybGQ=
+2021-12-21 01:32:28
+
+Topic: XMYQoS: 2
+
+{
+  "msg": "hello"
+}28842192.0065925
+2021-12-21 01:33:21
+
+Topic: XMYQoS: 2
+
+{
+  "msg": "hello"
+}28842192.0065925
+2021-12-21 01:33:21
+
+Topic: XMYQoS: 2
+
+{
+  "msg": "hello"
+}28842192.0065925
+2021-12-21 01:33:21
+
+Topic: XMYQoS: 2
+
+{
+  "msg": "hello"
+}28842192.0065925http://aladin.unistra.fr/AladinLite/?target=05%2043%209.411-01%2036%2037.29&fov=3.00&survey=P%2FDSS2%2Fcolor
+2021-12-21 03:00:50
+
+Topic: testtopic/miniprogramQoS: 0
+
+{
+  "msg": "eee"
+  
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/111wQoS: 0
+
+{
+  "msg": "hellod"
+  "name":"jiduauto.com
+"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/mytopicQoS: 0
+
+{
+  "msg": "hello",
+  "name": "你说什恶魔",
+  "age" : "还是有什么要说",
+  "温度" : "现在是多少度 man"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/deptQoS: 0
+
+{
+  "retain":"testRetain",
+  "status":"1",
+  "Qos":"0"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/456QoS: 0
+
+{
+  "msg": "hello44"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/会议室1/3QoS: 0
+
+{
+  "msg": "hello3"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/timeQoS: 0
+
+
+{ "time": 1608365158 }
+2022-01-20 20:18:02
+
+Topic: testtopic/test1/llpQoS: 0
+
+DeviceModel=PQNet101CVT
+ADCBackgroudDC[4]=0,0,0,0
+2022-01-20 20:18:02
+
+Topic: testtopic/8QoS: 0
+
+sinvo test send
+2022-01-20 20:18:02
+
+Topic: testtopic/hgd_bQoS: 0
+
+{
+  "msg": "你好vcsdfdsfds"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/alertQoS: 0
+
+Hi
+2022-01-20 20:18:02
+
+Topic: testtopic/oneQoS: 0
+
+{
+  "msg": "你是谁"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/twoQoS: 0
+
+{
+  "msg": "tow"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/test1QoS: 0
+
+Hi
+2022-01-20 20:18:02
+
+Topic: testtopic/alert1QoS: 0
+
+alert
+2022-01-20 20:18:02
+
+Topic: testtopic/v_qQoS: 0
+
+sss123
+2022-01-20 20:18:02
+
+Topic: testtopic/123QoS: 0
+
+sss123
+2022-01-20 20:18:02
+
+Topic: testtopic/122222QoS: 0
+
+{
+  "msg": "hello00000----====99"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/nodejsQoS: 0
+
+nodejs mqtt test
+2022-01-20 20:18:02
+
+Topic: testtopic/122222678687QoS: 0
+
+{
+  "msg": "hello00000----=================9"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/12444QoS: 0
+
+------------
+2022-01-20 20:18:02
+
+Topic: testtopic/10QoS: 0
+
+{"msg":"nmb1"}
+2022-01-20 20:18:02
+
+Topic: testtopic/mzlQoS: 0
+
+{"msg":"有空一起拉屎"}
+2022-01-20 20:18:02
+
+Topic: testtopic/66QoS: 0
+
+{
+  "msg": "聊天挺愉快"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/itsmineQoS: 0
+
+{
+  "msg": "hello world."
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/abcQoS: 0
+
+{
+  "msg": "hello"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/jsQoS: 0
+
+89
+2022-01-20 20:18:02
+
+Topic: testtopic/001QoS: 0
+
+{
+  "msg": "agents/1062"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/react2QoS: 0
+
+testing 1 2 311
+2022-01-20 20:18:02
+
+Topic: testtopic/接收QoS: 0
+
+{
+  "msg": "有人吗"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/reactQoS: 0
+
+{
+  "msg": "Test75"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/866714044883790QoS: 0
+
+{
+  "msg": "xiao"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/7748QoS: 0
+
+{
+  "msg": "xiao"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/fsQoS: 0
+
+{
+  "bool":1,"df":89
+  }
+2022-01-20 20:18:02
+
+Topic: testtopic/sakikenQoS: 0
+
+import paho.mqtt.client as mqtt
+​
+def on_connect(client, userdata, flags, rc):
+    if rc == 0:
+        client.publish("test", payload="hello world", qos=0)
+    else:
+        print("connection failed ", rc)
+​
+mqtt_client = mqtt.Client(client_id="demo_mqtt_pub", clean_session=False)
+mqtt_client.on_connect = on_connect
+​
+mqtt_client.connect("192.168.10.239", 1883)
+mqtt_client.loop_forever()
+2022-01-20 20:18:02
+
+Topic: testtopic/QoS: 0
+
+有人吗
+2022-01-20 20:18:02
+
+Topic: testtopic/tempQoS: 0
+
+{
+  "msg": "fuck"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/testQoS: 0
+
+magnet:?xt=urn:btih:A8BB2E7AD22CB2E6BE3CB6792013D105FCAD4C65&dn=jul-814&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=http%3A%2F%2Fsukebei.tracker.wf%3A8888%2Fannounce
+2022-01-20 20:18:02
+
+Topic: testtopic/azmanQoS: 0
+
+{"T1": 1253}
+2022-01-20 20:18:02
+
+Topic: testtopic/azman/QoS: 0
+
+{"T1": 55 , "T2":"azman"}
+2022-01-20 20:18:02
+
+Topic: testtopic/mkt_tesQoS: 0
+
+mkt_test
+2022-01-20 20:18:02
+
+Topic: testtopic/1212QoS: 0
+
+122122
+2022-01-20 20:18:02
+
+Topic: testtopic/pub_topicQoS: 0
+
+data 0.5
+2022-01-20 20:18:02
+
+Topic: testtopic/dataQoS: 0
+
+"123"
+2022-01-20 20:18:02
+
+Topic: testtopic/3QoS: 0
+
+{
+  "msg": "hello3"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/test/ssQoS: 0
+
+{
+  "msg": "hello"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/azmanovic/QoS: 0
+
+14
+2022-01-20 20:18:02
+
+Topic: testtopic/888/oooQoS: 0
+
+ettoooo
+2022-01-20 20:18:02
+
+Topic: testtopic/button_numberQoS: 0
+
+{
+  "msg": "sdingba"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/xxxx1QoS: 0
+
+{
+  "msg": "20220119"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/xxxxQoS: 0
+
+{
+  "msg": "20220119"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/xxxxxxxxxQoS: 0
+
+{
+  "msg": "20220119"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/simps-322/getQoS: 0
+
+{
+  "msg": "hello, simps"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/34865d3a3404/pubQoS: 0
+
+{
+  "msg": "这是怎么回事试，你呀"
+}
+2022-01-20 20:18:02
+
+Topic: testtopicQoS: 0
+
+{
+  "msg": "奇怪，公共服务器上能收到订阅。自己搭的服务器能发送但是收不到订阅。"
+}
+2022-01-20 20:18:02
+
+Topic: testtopic/1QoS: 0
+
+{
+  "msg": "要崩溃了。。。"
+}
+2022-01-20 20:18:02
+
+Topic: XMYQoS: 2
+
+{
+  "msg": "hello"
+}28842192.0065925http://aladin.unistra.fr/AladinLite/?target=05%2043%209.411-01%2036%2037.29&fov=3.00&survey=P%2FDSS2%2Fcolor
+2022-01-20 20:22:36
+
+Topic: testtopic/miniprogramQoS: 0
+
+{
+  "msg": "eee"
+  
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/111wQoS: 0
+
+{
+  "msg": "hellod"
+  "name":"jiduauto.com
+"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/mytopicQoS: 0
+
+{
+  "msg": "hello",
+  "name": "你说什恶魔",
+  "age" : "还是有什么要说",
+  "温度" : "现在是多少度 man"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/deptQoS: 0
+
+{
+  "retain":"testRetain",
+  "status":"1",
+  "Qos":"0"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/456QoS: 0
+
+{
+  "msg": "hello44"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/会议室1/3QoS: 0
+
+{
+  "msg": "hello3"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/timeQoS: 0
+
+
+{ "time": 1608365158 }
+2022-01-21 03:32:06
+
+Topic: testtopic/test1/llpQoS: 0
+
+DeviceModel=PQNet101CVT
+ADCBackgroudDC[4]=0,0,0,0
+2022-01-21 03:32:06
+
+Topic: testtopic/8QoS: 0
+
+sinvo test send
+2022-01-21 03:32:06
+
+Topic: testtopic/hgd_bQoS: 0
+
+{
+  "msg": "你好vcsdfdsfds"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/alertQoS: 0
+
+Hi
+2022-01-21 03:32:06
+
+Topic: testtopic/oneQoS: 0
+
+{
+  "msg": "你是谁"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/twoQoS: 0
+
+{
+  "msg": "tow"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/test1QoS: 0
+
+Hi
+2022-01-21 03:32:06
+
+Topic: testtopic/alert1QoS: 0
+
+alert
+2022-01-21 03:32:06
+
+Topic: testtopic/v_qQoS: 0
+
+sss123
+2022-01-21 03:32:06
+
+Topic: testtopic/123QoS: 0
+
+sss123
+2022-01-21 03:32:06
+
+Topic: testtopic/122222QoS: 0
+
+{
+  "msg": "hello00000----====99"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/nodejsQoS: 0
+
+nodejs mqtt test
+2022-01-21 03:32:06
+
+Topic: testtopic/122222678687QoS: 0
+
+{
+  "msg": "hello00000----=================9"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/12444QoS: 0
+
+------------
+2022-01-21 03:32:06
+
+Topic: testtopic/10QoS: 0
+
+{"msg":"nmb1"}
+2022-01-21 03:32:06
+
+Topic: testtopic/mzlQoS: 0
+
+{"msg":"有空一起拉屎"}
+2022-01-21 03:32:06
+
+Topic: testtopic/66QoS: 0
+
+{
+  "msg": "聊天挺愉快"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/itsmineQoS: 0
+
+{
+  "msg": "hello world."
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/abcQoS: 0
+
+{
+  "msg": "hello"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/jsQoS: 0
+
+89
+2022-01-21 03:32:06
+
+Topic: testtopic/001QoS: 0
+
+{
+  "msg": "agents/1062"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/react2QoS: 0
+
+testing 1 2 311
+2022-01-21 03:32:06
+
+Topic: testtopic/接收QoS: 0
+
+{
+  "msg": "有人吗"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/reactQoS: 0
+
+{
+  "msg": "Test75"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/866714044883790QoS: 0
+
+{
+  "msg": "xiao"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/7748QoS: 0
+
+{
+  "msg": "xiao"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/fsQoS: 0
+
+{
+  "bool":1,"df":89
+  }
+2022-01-21 03:32:06
+
+Topic: testtopic/sakikenQoS: 0
+
+import paho.mqtt.client as mqtt
+​
+def on_connect(client, userdata, flags, rc):
+    if rc == 0:
+        client.publish("test", payload="hello world", qos=0)
+    else:
+        print("connection failed ", rc)
+​
+mqtt_client = mqtt.Client(client_id="demo_mqtt_pub", clean_session=False)
+mqtt_client.on_connect = on_connect
+​
+mqtt_client.connect("192.168.10.239", 1883)
+mqtt_client.loop_forever()
+2022-01-21 03:32:06
+
+Topic: testtopic/QoS: 0
+
+有人吗
+2022-01-21 03:32:06
+
+Topic: testtopic/tempQoS: 0
+
+{
+  "msg": "fuck"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/testQoS: 0
+
+magnet:?xt=urn:btih:A8BB2E7AD22CB2E6BE3CB6792013D105FCAD4C65&dn=jul-814&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=http%3A%2F%2Fsukebei.tracker.wf%3A8888%2Fannounce
+2022-01-21 03:32:06
+
+Topic: testtopic/azmanQoS: 0
+
+{"T1": 1253}
+2022-01-21 03:32:06
+
+Topic: testtopic/azman/QoS: 0
+
+{"T1": 55 , "T2":"azman"}
+2022-01-21 03:32:06
+
+Topic: testtopic/mkt_tesQoS: 0
+
+mkt_test
+2022-01-21 03:32:06
+
+Topic: testtopic/1212QoS: 0
+
+122122
+2022-01-21 03:32:06
+
+Topic: testtopic/pub_topicQoS: 0
+
+data 0.5
+2022-01-21 03:32:06
+
+Topic: testtopic/dataQoS: 0
+
+"123"
+2022-01-21 03:32:06
+
+Topic: testtopic/3QoS: 0
+
+{
+  "msg": "hello3"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/test/ssQoS: 0
+
+{
+  "msg": "hello"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/azmanovic/QoS: 0
+
+14
+2022-01-21 03:32:06
+
+Topic: testtopic/888/oooQoS: 0
+
+ettoooo
+2022-01-21 03:32:06
+
+Topic: testtopic/button_numberQoS: 0
+
+{
+  "msg": "sdingba"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/xxxx1QoS: 0
+
+{
+  "msg": "20220119"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/xxxxQoS: 0
+
+{
+  "msg": "20220119"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/xxxxxxxxxQoS: 0
+
+{
+  "msg": "20220119"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/simps-322/getQoS: 0
+
+{
+  "msg": "hello, simps"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/34865d3a3404/pubQoS: 0
+
+{
+  "msg": "这是怎么回事试，你呀"
+}
+2022-01-21 03:32:06
+
+Topic: testtopicQoS: 0
+
+{
+  "msg": "奇怪，公共服务器上能收到订阅。自己搭的服务器能发送但是收不到订阅。"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/1QoS: 0
+
+{
+  "msg": "要崩溃了。。。"
+}
+2022-01-21 03:32:06
+
+Topic: testtopic/996QoS: 0
+
+M
+2022-01-21 03:32:06
+
+Topic: XMYQoS: 2
+
+7b0a2020226d7367223a202268656c6c6f220a7d32383834323139322e30303635393235687474703a2f2f616c6164696e2e756e69737472612e66722f416c6164696e4c6974652f3f7461726765743d30352532303433253230392e3431312d3031253230333625323033372e323926666f763d332e3030267375727665793d5025324644535332253246636f6c6f720a
+2022-01-21 03:33:11
